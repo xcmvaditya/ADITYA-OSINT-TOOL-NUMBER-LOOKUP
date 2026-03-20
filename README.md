@@ -1,7 +1,7 @@
 TERMUX CAMMANDS 
 ________________________________
 
-1(pkg update && pkg upgrade -y
+1)pkg update && pkg upgrade -y
 
 
 2)pkg install python python-pip git -y
