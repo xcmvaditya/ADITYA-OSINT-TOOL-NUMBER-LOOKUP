@@ -10,17 +10,21 @@ ________________________________
 3)pip install colorama pyfiglet dnspython python-whois request
 
 
-4)git clone https://github.com/xcmvaditya/ADITYA-OSINT-TOOL-NUMBER-LOOKUP.git
-
-
-5)cd ADITYA-OSINT-TOOL-NUMBER-LOOKUP
+4)pip list | grep -E "colorama|pyfiglet|dnspython|whois"
 
 
 
-6)chmod 777 Adityaosint.py
+5)git clone https://github.com/xcmvaditya/ADITYA-OSINT-TOOL-NUMBER-LOOKUP.git
 
 
-7)python Adityaosint.py
+6)cd ADITYA-OSINT-TOOL-NUMBER-LOOKUP
+
+
+
+7)chmod 777 Adityaosint.py
+
+
+8)python Adityaosint.py
 
 
 
