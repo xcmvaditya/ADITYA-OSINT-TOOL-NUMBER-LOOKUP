@@ -7,8 +7,7 @@ ________________________________
 2)pkg install python python-pip git -y
 
 
-3)pip install colorama pyfiglet dnspython python-whois request
-
+3)pip install colorama pyfiglet dnspython whois requests
 
 4)pip list | grep -E "colorama|pyfiglet|dnspython|whois"
 
